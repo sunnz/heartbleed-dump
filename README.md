@@ -1,4 +1,4 @@
 heartbleed-dump
 ===============
 
-Test for OpenSSL heartbeat vulnerability and optionally writes result to a file.
+Extended fork of Jared Stafford's ssltest.py that sets payload length to 65535 bytes and optionally saves the result to a file.
